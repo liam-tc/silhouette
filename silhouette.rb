@@ -62,7 +62,7 @@ module Silhouette
     end
 
     def show_events
-      pp build_tree
+      build_tree
     end
   end
 end

@@ -1,0 +1,224 @@
+{
+    "call_uuid": null,
+    "children": [
+        {
+            "call_uuid": "bd371541-bf41-453a-964d-c43f5c746610",
+            "children": [
+                {
+                    "call_uuid": "dab04ff9-c87a-4557-bb93-96aaeb4272b0",
+                    "children": [
+                        {
+                            "call_uuid": "11b2be07-495e-4b60-9271-84851682a25b",
+                            "children": [],
+                            "method_name": "dummy1",
+                            "parent": "dab04ff9-c87a-4557-bb93-96aaeb4272b0",
+                            "time": 1.0050711631774902
+                        },
+                        {
+                            "call_uuid": "06111aa9-09a9-4997-bde4-f435b38d1e4d",
+                            "children": [
+                                {
+                                    "call_uuid": "73696e97-eee6-4bcf-9a8f-f16215ca5297",
+                                    "children": [],
+                                    "method_name": "dummy1",
+                                    "parent": "06111aa9-09a9-4997-bde4-f435b38d1e4d",
+                                    "time": 1.0051920413970947
+                                },
+                                {
+                                    "call_uuid": "3aa2e75b-4593-4a5f-b3aa-04fb9232d09a",
+                                    "children": [
+                                        {
+                                            "call_uuid": "6ce4f6f0-8b05-46fe-a324-ccbde3c1f044",
+                                            "children": [],
+                                            "method_name": "dummy1",
+                                            "parent": "3aa2e75b-4593-4a5f-b3aa-04fb9232d09a",
+                                            "time": 1.0046451091766357
+                                        },
+                                        {
+                                            "call_uuid": "10565c0d-80b4-464a-b928-7ad92439d846",
+                                            "children": [
+                                                {
+                                                    "call_uuid": "86af8e9b-ad36-4fd8-a7be-a0e76dece62c",
+                                                    "children": [],
+                                                    "method_name": "dummy1",
+                                                    "parent": "10565c0d-80b4-464a-b928-7ad92439d846",
+                                                    "time": 1.00132417678833
+                                                },
+                                                {
+                                                    "call_uuid": "a496a502-9167-46b8-91e0-dd866b189ef0",
+                                                    "children": [
+                                                        {
+                                                            "call_uuid": "8d8c2262-d959-465b-a827-d542b8a30643",
+                                                            "children": [],
+                                                            "method_name": "dummy1",
+                                                            "parent": "a496a502-9167-46b8-91e0-dd866b189ef0",
+                                                            "time": 1.0051429271697998
+                                                        },
+                                                        {
+                                                            "call_uuid": "7b3017de-e031-47ee-aceb-07cdfce3e378",
+                                                            "children": [
+                                                                {
+                                                                    "call_uuid": "526019d8-222e-4892-aea8-e451161b2dad",
+                                                                    "children": [],
+                                                                    "method_name": "dummy1",
+                                                                    "parent": "7b3017de-e031-47ee-aceb-07cdfce3e378",
+                                                                    "time": 1.003767967224121
+                                                                },
+                                                                {
+                                                                    "call_uuid": "4aaf8be3-f7b8-4673-be1c-5ef68f735aed",
+                                                                    "children": [
+                                                                        {
+                                                                            "call_uuid": "f2b2f51d-3ee0-4c4f-a79b-a446ecd42ef7",
+                                                                            "children": [],
+                                                                            "method_name": "dummy1",
+                                                                            "parent": "4aaf8be3-f7b8-4673-be1c-5ef68f735aed",
+                                                                            "time": 1.0039610862731934
+                                                                        },
+                                                                        {
+                                                                            "call_uuid": "7d097bda-459c-4071-9af6-ca67fab145c4",
+                                                                            "children": [
+                                                                                {
+                                                                                    "call_uuid": "d09b9bd9-8df4-4155-816c-1a4f01a5f879",
+                                                                                    "children": [],
+                                                                                    "method_name": "dummy1",
+                                                                                    "parent": "7d097bda-459c-4071-9af6-ca67fab145c4",
+                                                                                    "time": 1.0038979053497314
+                                                                                },
+                                                                                {
+                                                                                    "call_uuid": "249aa341-795d-41fa-a5d8-1d6c28ed5719",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "call_uuid": "b566c7d3-9444-4cdb-a29b-12bff158178b",
+                                                                                            "children": [],
+                                                                                            "method_name": "dummy1",
+                                                                                            "parent": "249aa341-795d-41fa-a5d8-1d6c28ed5719",
+                                                                                            "time": 1.0010731220245361
+                                                                                        },
+                                                                                        {
+                                                                                            "call_uuid": "0d89f144-10bb-4679-bdd3-68be906586a4",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "call_uuid": "7b069dab-d343-4ab7-8589-8e750c830b5f",
+                                                                                                    "children": [],
+                                                                                                    "method_name": "dummy1",
+                                                                                                    "parent": "0d89f144-10bb-4679-bdd3-68be906586a4",
+                                                                                                    "time": 1.0039150714874268
+                                                                                                },
+                                                                                                {
+                                                                                                    "call_uuid": "e179c8f9-a3ac-492c-b21a-25625074a306",
+                                                                                                    "children": [],
+                                                                                                    "method_name": "dummy2",
+                                                                                                    "parent": "0d89f144-10bb-4679-bdd3-68be906586a4",
+                                                                                                    "time": 0.00014901161193847656
+                                                                                                }
+                                                                                            ],
+                                                                                            "method_name": "dummy2",
+                                                                                            "parent": "249aa341-795d-41fa-a5d8-1d6c28ed5719",
+                                                                                            "time": 1.0048813819885254
+                                                                                        }
+                                                                                    ],
+                                                                                    "method_name": "dummy2",
+                                                                                    "parent": "7d097bda-459c-4071-9af6-ca67fab145c4",
+                                                                                    "time": 2.0063610076904297
+                                                                                }
+                                                                            ],
+                                                                            "method_name": "dummy2",
+                                                                            "parent": "4aaf8be3-f7b8-4673-be1c-5ef68f735aed",
+                                                                            "time": 3.0107970237731934
+                                                                        }
+                                                                    ],
+                                                                    "method_name": "dummy2",
+                                                                    "parent": "7b3017de-e031-47ee-aceb-07cdfce3e378",
+                                                                    "time": 4.015224933624268
+                                                                }
+                                                            ],
+                                                            "method_name": "dummy2",
+                                                            "parent": "a496a502-9167-46b8-91e0-dd866b189ef0",
+                                                            "time": 5.019270896911621
+                                                        }
+                                                    ],
+                                                    "method_name": "dummy2",
+                                                    "parent": "10565c0d-80b4-464a-b928-7ad92439d846",
+                                                    "time": 6.024702072143555
+                                                }
+                                            ],
+                                            "method_name": "dummy2",
+                                            "parent": "3aa2e75b-4593-4a5f-b3aa-04fb9232d09a",
+                                            "time": 7.027234077453613
+                                        }
+                                    ],
+                                    "method_name": "dummy2",
+                                    "parent": "06111aa9-09a9-4997-bde4-f435b38d1e4d",
+                                    "time": 8.03209114074707
+                                }
+                            ],
+                            "method_name": "dummy2",
+                            "parent": "dab04ff9-c87a-4557-bb93-96aaeb4272b0",
+                            "time": 9.037403106689453
+                        }
+                    ],
+                    "method_name": "dummy2",
+                    "parent": "bd371541-bf41-453a-964d-c43f5c746610",
+                    "time": 10.042587041854858
+                },
+                {
+                    "call_uuid": "52212e23-3290-40c0-857d-ef56e6c95ce6",
+                    "children": [
+                        {
+                            "call_uuid": "5fad570b-5153-4b79-a741-ed6e46327c08",
+                            "children": [],
+                            "method_name": "dummy1",
+                            "parent": "52212e23-3290-40c0-857d-ef56e6c95ce6",
+                            "time": 1.0033879280090332
+                        },
+                        {
+                            "call_uuid": "6024e788-8b07-4f17-912c-b6007878604d",
+                            "children": [
+                                {
+                                    "call_uuid": "b277afe7-d9dc-49b2-b6a1-36408fc7d5ea",
+                                    "children": [],
+                                    "method_name": "dummy1",
+                                    "parent": "6024e788-8b07-4f17-912c-b6007878604d",
+                                    "time": 1.0042150020599365
+                                },
+                                {
+                                    "call_uuid": "e8b8afee-f013-4a9f-ae52-789f5cbe2655",
+                                    "children": [
+                                        {
+                                            "call_uuid": "ae3c9295-d9db-4cb1-a236-1607abbb75f0",
+                                            "children": [],
+                                            "method_name": "dummy1",
+                                            "parent": "e8b8afee-f013-4a9f-ae52-789f5cbe2655",
+                                            "time": 1.0051259994506836
+                                        },
+                                        {
+                                            "call_uuid": "1dfaeb2b-d75a-42e3-8917-ce516d7a76e4",
+                                            "children": [],
+                                            "method_name": "dummy2",
+                                            "parent": "e8b8afee-f013-4a9f-ae52-789f5cbe2655",
+                                            "time": 0.0011792182922363281
+                                        }
+                                    ],
+                                    "method_name": "dummy2",
+                                    "parent": "6024e788-8b07-4f17-912c-b6007878604d",
+                                    "time": 1.0065560340881348
+                                }
+                            ],
+                            "method_name": "dummy2",
+                            "parent": "52212e23-3290-40c0-857d-ef56e6c95ce6",
+                            "time": 2.0109047889709473
+                        }
+                    ],
+                    "method_name": "dummy2",
+                    "parent": "bd371541-bf41-453a-964d-c43f5c746610",
+                    "time": 3.0146758556365967
+                }
+            ],
+            "method_name": "dummy3",
+            "parent": null,
+            "time": 13.057504892349243
+        }
+    ],
+    "method_name": "root",
+    "time": 0
+}
