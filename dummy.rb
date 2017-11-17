@@ -1,7 +1,7 @@
 require './silhouette'
 
 def dummy1
-  x = []
+  sleep 1
 end
 
 def dummy2 
@@ -10,9 +10,12 @@ end
 
 def dummy3
   dummy2
+  dummy2
   return 2
 end
 
 pr = Silhouette::Profile.new
-dummy1
+dummy3
+pr.disable
+pr.show_events
 
